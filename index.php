@@ -145,7 +145,7 @@ http://www.tooplate.com/view/2082-pure-mix
                              
                                <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-1.dropbox.com/t/2/AADflwjExi2_8xnbbgppwoG8sK3IiSrzh43tsHw4fApb2A/12/199051926/jpeg/32x32/1/_/1/2/airplane.jpg/ELGG2ZYBGNMPIAcoBw/Yh3UKydXpzJj1luwP7cZq4vo6dRLOtDHjSet0GO6_b4?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/airplane.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/107126918" target="_blank"><i class="fa fa-link"></i></a>
@@ -157,7 +157,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                    <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-6.dropbox.com/t/2/AADkB3yJktvXKAQrGabQ-182c8BI4l6tcwTixitzZcP8eA/12/199051926/png/32x32/1/_/1/2/ston.png/ELGG2ZYBGNEPIAcoBw/76VOTPHfIHGptyahbzWN5OTp164P1gbeUPXtN9I4a-E?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/ston.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/111082783" target="_blank"><i class="fa fa-link"></i></a>
@@ -169,7 +169,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                              <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-1.dropbox.com/t/2/AAB9xH9ktuH7ff-yQzRUOZQP8TjTUwVTNPWfqTNxaj1eTg/12/199051926/png/32x32/1/_/1/2/good.png/ELGG2ZYBGOAPIAcoBw/tGQkDnxm7bDAQmL_UY8MA_uFNg9yHMd3HSPqmZuQKh0?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/good.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/111193904" target="_blank"><i class="fa fa-link"></i></a>
@@ -182,7 +182,7 @@ http://www.tooplate.com/view/2082-pure-mix
                           
                              <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-1.dropbox.com/t/2/AAB1o2aSXx2UbOdHNqh9hsIs3m1hoKc8o3prOPp46jciDQ/12/199051926/png/32x32/1/_/1/2/frogpng.png/ELGG2ZYBGMYPIAcoBw/OOdUn7qgEblPAdyGJwWC1NZWO79L2QBf5PfCvChYfuY?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/frogpng.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/96857173" target="_blank"><i class="fa fa-link"></i></a>
@@ -194,7 +194,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AADZl_JEJ8D-5p8hFMteem48qX5TvfELMSrwxb69jX4qVA/12/199051926/png/32x32/1/_/1/2/light.png/ELGG2ZYBGMkPIAcoBw/5kkKYsFA3ZqSEmsBWDrA8z2pIs1l3uGqMXzFXfokE5I?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/light.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="#"><i class="fa fa-link"></i></a> -->
@@ -206,7 +206,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                  <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-6.dropbox.com/t/2/AAALm-m_39n5_lCRPzA2wmgz4SxMTTRN41Ept_Xh6i6Jow/12/199051926/jpeg/32x32/1/_/1/2/benebe.jpg/ELGG2ZYBGNUPIAcoBw/iuaAVU0sQFHUWXi9y0FuJnBs7Nr9Bu2wt8hRsjYFYMs?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/benebe.jpg" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/100812273" target="_blank"><i class="fa fa-link"></i></a>
@@ -219,7 +219,7 @@ http://www.tooplate.com/view/2082-pure-mix
                            
                                 <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-1.dropbox.com/t/2/AAD79AzjgXfX9GAAFHXJGzk2-GL3bAPx3Ulg8ERfY7YtWg/12/199051926/png/32x32/1/_/1/2/saturn.png/ELGG2ZYBGNAPIAcoBw/PqJW47HYYthFyk94a2U-FnQDQ2J2mYGT9rF1jYxkCt8?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/saturn.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="#"><i class="fa fa-link"></i></a> -->
@@ -231,7 +231,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                    <div class="iso-box macro all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-3.dropbox.com/t/2/AAC9m5xCGUJ_jk606nx-bshqvuvN4mMdmaQhzAObsAO_1Q/12/199051926/png/32x32/1/_/1/2/clown.png/ELGG2ZYBGNcPIAcoBw/QSXPBe_ColhpCKdG-Z7J7RQIHyxBhCKF7eHTA-0Om_I?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/clown.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/96409145" target="_blank"><i class="fa fa-link"></i></a>
@@ -243,7 +243,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                    <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-6.dropbox.com/t/2/AACm9j1lXW4yqaYKBJ2BMmLM9-inCoe-39MppvqJmKxd1Q/12/199051926/jpeg/32x32/1/_/1/2/cozy.jpg/ELGG2ZYBGNgPIAcoBw/D4YhuEps1hp3ZardIDo8cDxJ3n6HSqc4N-G-RYmdas8?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/cozy.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/106535695" target="_blank"><i class="fa fa-link"></i></a>
@@ -255,7 +255,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                    <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AABnpsb2O1ZiY3iLQJrIqDcA8pSxgevj9n-6iejWiUveig/12/199051926/png/32x32/1/_/1/2/lucky.png/ELGG2ZYBGMsPIAcoBw/HDKNhbcpia8zHEIMbEQyX7dtrjlfqqpXNhkCi_AI2Ps?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/lucky.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/109617665" target="_blank"><i class="fa fa-link"></i></a>
@@ -267,7 +267,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                     <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-3.dropbox.com/t/2/AADGqRzAcLvJqqKqNvLGi314Ojz2yh69vNY8J6uT8IGoEA/12/199051926/png/32x32/1/_/1/2/lonely.png/ELGG2ZYBGMoPIAcoBw/6fWOmaj_z2wVBgAzDvvJDofnXThhF06utZXG_JJWr_Q?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/lonely.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/98313003" target="_blank"><i class="fa fa-link"></i></a>
@@ -279,7 +279,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                               <div class="iso-box template all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-3.dropbox.com/t/2/AAAm-4L_oRsRhUhKYiGhjjO6txTsb7gu64hoMV1ielkuVg/12/199051926/png/32x32/1/_/1/2/classic.png/ELGG2ZYBGNYPIAcoBw/CdHL6G_HT5Kd4kJxMtsbMmbEr9Auqc0d28hidYs1FV0?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/classic.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="single-project.html"><i class="fa fa-link"></i></a> -->
@@ -293,7 +293,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                 <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-2.dropbox.com/t/2/AABkaMgbQeywZ9CSQjEdPbtmuXzTghLj5X4LrxljBf2p7w/12/199051926/png/32x32/1/_/1/2/lumps.png/ELGG2ZYBGMwPIAcoBw/hthbX8AqSLJxXwwp25RVzoEyUSgZjC7tBO4jsuCtEVw?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/lumps.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/98297923" target="_blank"><i class="fa fa-link"></i></a>
@@ -306,7 +306,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                    <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AAC5zvYfJrpD9g3ok7NcEyrbPP9FrhGQHDFkJ0JFVrBokg/12/199051926/jpeg/32x32/1/_/1/2/dekor.jpg/ELGG2ZYBGMUPIAcoBw/yxnr4KsT3Q7ycjqQL12bpeWBV17U6HBOMQKFl8Zp5Uc?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/dekor.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/109151819" target="_blank"><i class="fa fa-link"></i></a>
@@ -318,7 +318,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                               <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AACKmQ0v-gkPC52WrWGPmDz7bYwL0B_kiiVYpNHPbvHTwg/12/199051926/png/32x32/1/_/1/2/Art.png/ELGG2ZYBGNQPIAcoBw/eSOfzeh4M0ZBuv_pwJ6dAPdckFu0uSH9CqCPyTNQz1w?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/Art.png" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/111083067" target="_blank"><i class="fa fa-link"></i></a>
@@ -343,7 +343,7 @@ http://www.tooplate.com/view/2082-pure-mix
                           
                               <div class="iso-box graphic all  col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-4.dropbox.com/t/2/AACAJfnz0PH_4EvzeDaHbAvPzHRU9kM7znFEwN15NRAkpA/12/199051926/jpeg/32x32/1/_/1/2/green.jpg/ELGG2ZYBGMcPIAcoBw/AHrulCtw_uWqOvFZjFikDkvIVpajahmZIl9KpW_tIt4?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/green.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/109064698" target="_blank"><i class="fa fa-link"></i></a>
@@ -355,7 +355,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                 <div class="iso-box macro all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AABaoHmZ1TltphxJbt0sVtV1dxlTUqO0DaANoWf7myOh8Q/12/199051926/jpeg/32x32/1/_/1/2/ice.jpg/ELGG2ZYBGMgPIAcoBw/q5nanSuUshGbRIGnUvfRpjx4vidhoUE5x4kWzjFfzsY?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/ice.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://www.eyeem.com/p/101677883" target="_blank"><i class="fa fa-link"></i></a>
@@ -367,7 +367,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                 <div class="iso-box macro all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-4.dropbox.com/t/2/AAAVjgz4btaXK5LuAQ7LsmCU9tJdCbeqEOKr8GwzEcdLMg/12/199051926/jpeg/32x32/1/_/1/2/macrogreen.jpg/ELGG2ZYBGM0PIAcoBw/yz1ttpUjA0SOr1uJ-0C_m6McpyM8cWL3JcKQyOO-hPI?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/macrogreen.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="single-project.html"><i class="fa fa-link"></i></a> -->
@@ -379,7 +379,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                 <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-3.dropbox.com/t/2/AACvhmDphUW5DXVdHBeacUQtV7J-AX5RNM_A90Fz7vbtJg/12/199051926/jpeg/32x32/1/_/1/2/moon.jpg/ELGG2ZYBGM4PIAcoBw/05reVRaBL1bBcobo9nXeocFL7G0bSbZnf_K3DpV019U?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/moon.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="single-project.html"><i class="fa fa-link"></i></a> -->
@@ -391,7 +391,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                 <div class="iso-box graphic all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-5.dropbox.com/t/2/AAAGCBN2r4L2xn_qBmmERmE8MQcUZRRxhC1TvFRpi0Hr1Q/12/199051926/jpeg/32x32/1/_/1/2/tall.jpg/ELGG2ZYBGNIPIAcoBw/5H-6--x0oKrsz8vaxmmADnS_wdYy_aNXqOuOgyD1SFo?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/tall.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="single-project.html"><i class="fa fa-link"></i></a> -->
@@ -405,7 +405,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                                <div class="iso-box template all col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-1.dropbox.com/t/2/AAA_ee2VGX0LImG3o9ezvRndRj_8EiYbfTvHktb8ABr91w/12/199051926/jpeg/32x32/1/_/1/2/paintings1.jpg/ELGG2ZYBGM8PIAcoBw/i9iIhVmV32VhzchqSEx4IuUTM-GExLjl6c0LynWPkHw?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/painting1.jpg" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <!-- <a href="single-project.html"><i class="fa fa-link"></i></a> -->
@@ -418,7 +418,7 @@ http://www.tooplate.com/view/2082-pure-mix
                               <!-- the project start from here. -->
                            <div class="iso-box photoshop col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-6.dropbox.com/t/2/AAD3SHJ9OoFI-jmhtlSIghlWDTXWq7r2JOCzdFhDYFIUUw/12/199051926/png/32x32/1/_/1/2/leranPNG.PNG/ELGG2ZYBGO8PIAcoBw/ujWrSvSsw-XRkJV3cq1oXBk-oh7iINoa6siJBK7-8DI?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/leranPNG.PNG" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://github.com/M-Ghaith/Elearn_System_node" target="_blank"><i class="fa fa-link"></i></a>
@@ -430,7 +430,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                               <div class="iso-box photoshop col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-6.dropbox.com/t/2/AADVEqRQIr0PGJ8bN3wYNGp5uGITOfxCJXy6t-i8vvx8nQ/12/199051926/png/32x32/1/_/1/2/Capture.PNG/ELGG2ZYBGOcPIAcoBw/-aqq747gBq-funx7KZFgaBVL_eEfInGHd1icySMegeY?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/Capture.PNG" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://github.com/M-Ghaith/Chat_Application" target="_blank"><i class="fa fa-link"></i></a>
@@ -442,7 +442,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                               <div class="iso-box photoshop col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-4.dropbox.com/t/2/AADNyvK1AAMXYBba5Unu3mwonTeRDEQ2HPAuVChN1x-wxg/12/199051926/png/32x32/1/_/1/2/Cre.PNG/ELGG2ZYBGO0PIAcoBw/_bEVDGuGj0mC4hmjrErECidDh1gVp5c8HPLtG9dEoh4?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/Cre.PNG" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://github.com/M-Ghaith/anonymous-blog" target="_blank"><i class="fa fa-link"></i></a>
@@ -454,7 +454,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
                             <div class="iso-box photoshop col-md-4 col-sm-6">
                                  <div class="portfolio-thumb">
-                                    <img src="https://photos-3.dropbox.com/t/2/AAAcsL6pYO3BEmwF5VSyu-tyJ8eMre7GOB4xYncuT9r7pA/12/199051926/png/32x32/1/_/1/2/authnode.PNG/ELGG2ZYBGPAPIAcoBw/mLURNEHd34hB0V_nTz8A6VPNDpkpAGFiamB5ak4GLd8?size=1280x960&size_mode=3" class="img-responsive" alt="Portfolio">
+                                    <img src="/pictures/authnode.PNG" class="img-responsive" alt="Portfolio">
                                        <div class="portfolio-overlay">
                                           <div class="portfolio-item">
                                                 <a href="https://github.com/M-Ghaith/Authentication-System-NodeJS" target="_blank"><i class="fa fa-link"></i></a>
